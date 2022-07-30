@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cristiano",
+        "apellido": "Ronaldo"
+    },
+    {
+        "id": 2,
+        "nombre": "Juanjo",
+        "apellido": "Diaz"
+    },
+    {
+        "id": 4,
+        "nombre": "Lionel",
+        "apellido": "Messi"
+    }
+]
